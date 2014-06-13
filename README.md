@@ -15,7 +15,7 @@
 -------------------------------------
 
 `git config user.name YOUR_NAME`  
-`git config user.name YOUR_EMAIL`
+`git config user.email YOUR_EMAIL`
 
 このコマンドをしないとマシン名や端末のユーザー名が表示されてしまいます。  
 常にこの設定を使用したい場合は`--global`オプションを使用してください。
